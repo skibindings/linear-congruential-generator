@@ -1,0 +1,29 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: промежуточный каталог (x64\Release\) содержит файлы, которые используются совместно с другим проектом (lab_simulation_1.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  lab_parallel_1.cpp
+c1xx : warning C4199: двухэтапный поиск имен не поддерживается для C++/CLI, C++/CX или OpenMP. Используйте /Zc:twoPhase-
+  lcg_tester.cpp
+c1xx : warning C4199: двухэтапный поиск имен не поддерживается для C++/CLI, C++/CX или OpenMP. Используйте /Zc:twoPhase-
+c:\users\minea\source\repos\lab_parallel_1\lab_simulation_1\lcg_tester.cpp(33): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\minea\source\repos\lab_parallel_1\lab_simulation_1\lcg_tester.cpp(46): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\minea\source\repos\lab_parallel_1\lab_simulation_1\lcg_tester.cpp(63): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\minea\source\repos\lab_parallel_1\lab_simulation_1\lcg_tester.cpp(76): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\minea\source\repos\lab_parallel_1\lab_simulation_1\lcg_tester.cpp(88): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\minea\source\repos\lab_parallel_1\lab_simulation_1\lcg_tester.cpp(93): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\minea\source\repos\lab_parallel_1\lab_simulation_1\lcg_tester.cpp(106): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\minea\source\repos\lab_parallel_1\lab_simulation_1\lcg_tester.cpp(109): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\minea\source\repos\lab_parallel_1\lab_simulation_1\lcg_tester.cpp(110): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\minea\source\repos\lab_parallel_1\lab_simulation_1\lcg_tester.cpp(116): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\minea\source\repos\lab_parallel_1\lab_simulation_1\lcg_tester.cpp(119): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\minea\source\repos\lab_parallel_1\lab_simulation_1\lcg_tester.cpp(120): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\minea\source\repos\lab_parallel_1\lab_simulation_1\lcg_tester.cpp(126): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\minea\source\repos\lab_parallel_1\lab_simulation_1\lcg_tester.cpp(129): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\minea\source\repos\lab_parallel_1\lab_simulation_1\lcg_tester.cpp(130): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\minea\source\repos\lab_parallel_1\lab_simulation_1\lcg_tester.cpp(139): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\minea\source\repos\lab_parallel_1\lab_simulation_1\lcg_tester.cpp(151): warning C4244: аргумент: преобразование "long double" в "unsigned int", возможна потеря данных
+c:\users\minea\source\repos\lab_parallel_1\lab_simulation_1\lcg_tester.cpp(186): warning C4018: <: несоответствие типов со знаком и без знака
+  Создание кода
+  8 of 125 functions ( 6.4%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  lab_simulation_1.vcxproj -> C:\Users\minea\source\repos\lab_parallel_1\x64\Release\lab_parallel_1.exe
